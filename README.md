@@ -9,6 +9,16 @@ OVERVIEW
 =user also reset thier password if they forgot old one by putting email id.
 
 
+TECHNOLOGY USED:-
+-Python
+-Javascript
+-html
+-Css
+
+FRAMEWORK:-
+-Django Framework
+
+
 
 
 
